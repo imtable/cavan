@@ -29,6 +29,8 @@ public class Average {
     }
     
 }
-// 3. The average (arithmetic mean) of two numbers is calculated by adding them up and
+
+// task:
+// The average (arithmetic mean) of two numbers is calculated by adding them up and
 // dividing by 2. Write a program to ask a user to enter two numbers, compute their
 // average and print out the result.
